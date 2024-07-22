@@ -20,7 +20,7 @@ Newtonsoft eklentisini indşrmeniz lazım yoksa api calısmaz
 
 <h2>
 
-  UYGULAMA RESİMLERİ 
+  UYGULAMA RESİMLERİ <h2>
 ![11](https://github.com/user-attachments/assets/414fa18b-14c0-4dc9-888f-e3908f05a24b)
 ![10](https://github.com/user-attachments/assets/10416a5a-6887-4642-bb3f-b45189eb47c1)
 ![9](https://github.com/user-attachments/assets/4b66233e-9ac7-49ae-a9c6-00029fe75881)
