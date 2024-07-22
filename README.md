@@ -16,20 +16,20 @@ Admin giriş-
 
  uygulamanın dosyaları 
 "login_signup_forget_pw" dosyasının içinde
-Newtonsoft eklentisini indşrmenşz lazım yoksa api calısmaz 
+Newtonsoft eklentisini indşrmeniz lazım yoksa api calısmaz 
 
 <h2>
 
   UYGULAMA RESİMLERİ 
-</h2>
-![11](https://github.com/user-attachments/assets/b6658698-0353-4531-916e-4e16af2de574)<p></p>
-![10](https://github.com/user-attachments/assets/7533116f-1f8b-4c81-a708-fc110c5e1bfd)<p></p>
-![9](https://github.com/user-attachments/assets/baedf72a-086e-4174-9a22-1e5aad10ac8f)<p></p>
-![8](https://github.com/user-attachments/assets/21aceec8-9c9a-4108-879f-d5c05035581a)<p></p>
-![7](https://github.com/user-attachments/assets/b81e8662-2c49-45ad-bd9a-2c7528def7b7)<p></p>
-![6](https://github.com/user-attachments/assets/518178a7-1d65-4051-978e-d529464db301)<p></p>
-![5](https://github.com/user-attachments/assets/8e07594a-999c-4f79-87e8-7fdf545ca62d)<p></p>
-![4](https://github.com/user-attachments/assets/f36d548f-f34e-4345-b48c-4a882005b457)<p></p>
-![3](https://github.com/user-attachments/assets/e88357e0-ceb3-47c8-b2fb-5fe92864113d)<p></p>
-![2](https://github.com/user-attachments/assets/a69d9100-1384-4a79-a1b6-652bbdddfaf8)<p></p>
-![1](https://github.com/user-attachments/assets/2524e9e7-8b56-453a-85fb-0754777feac8)<p></p>
+![11](https://github.com/user-attachments/assets/414fa18b-14c0-4dc9-888f-e3908f05a24b)
+![10](https://github.com/user-attachments/assets/10416a5a-6887-4642-bb3f-b45189eb47c1)
+![9](https://github.com/user-attachments/assets/4b66233e-9ac7-49ae-a9c6-00029fe75881)
+![8](https://github.com/user-attachments/assets/78367f9d-cb1e-4ad2-997b-15025637dffd)
+![7](https://github.com/user-attachments/assets/4919c7b5-f9e0-451a-9378-1b24550e7085)
+![6](https://github.com/user-attachments/assets/1abe215e-cd67-4d4c-96a2-ef2b26cc5a9f)
+![5](https://github.com/user-attachments/assets/39f3044c-5f6b-4766-a62f-39e90a641603)
+![4](https://github.com/user-attachments/assets/c3a5a816-e289-4a14-a402-c973b8393f85)
+![3](https://github.com/user-attachments/assets/b1d90bb3-1957-4c1d-bb31-d9cbc3ad8da0)
+![2](https://github.com/user-attachments/assets/cd1f166d-bf4d-4831-ab47-49ec3fb8da06)
+![1](https://github.com/user-attachments/assets/7d027566-e16d-4688-a621-ba13dc11c713)
+
