@@ -15,7 +15,7 @@ Admin giriş-
 
 
  uygulamanın dosyaları 
-"login_signup_forget_pw" dosyasının içinde
+"login_signup_forget_pw" dosyasının içinde <p>
 Newtonsoft eklentisini indirmeniz lazım yoksa api çalısmaz 
 
 <h2>
