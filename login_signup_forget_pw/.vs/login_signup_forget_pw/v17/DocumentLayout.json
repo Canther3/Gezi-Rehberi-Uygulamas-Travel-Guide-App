@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canpo\\OneDrive\\Masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{351D180E-DFAD-436D-A658-06CD253A6BC4}|login_signup_forget_pw\\login_signup_forget_pw.csproj|c:\\users\\canpo\\onedrive\\masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351D180E-DFAD-436D-A658-06CD253A6BC4}|login_signup_forget_pw\\login_signup_forget_pw.csproj|solutionrelative:login_signup_forget_pw\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351D180E-DFAD-436D-A658-06CD253A6BC4}|login_signup_forget_pw\\login_signup_forget_pw.csproj|c:\\users\\canpo\\onedrive\\masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\men\u00FC1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351D180E-DFAD-436D-A658-06CD253A6BC4}|login_signup_forget_pw\\login_signup_forget_pw.csproj|solutionrelative:login_signup_forget_pw\\men\u00FC1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351D180E-DFAD-436D-A658-06CD253A6BC4}|login_signup_forget_pw\\login_signup_forget_pw.csproj|c:\\users\\canpo\\onedrive\\masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\men\u00FC1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351D180E-DFAD-436D-A658-06CD253A6BC4}|login_signup_forget_pw\\login_signup_forget_pw.csproj|solutionrelative:login_signup_forget_pw\\men\u00FC1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351D180E-DFAD-436D-A658-06CD253A6BC4}|login_signup_forget_pw\\login_signup_forget_pw.csproj|c:\\users\\canpo\\onedrive\\masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351D180E-DFAD-436D-A658-06CD253A6BC4}|login_signup_forget_pw\\login_signup_forget_pw.csproj|solutionrelative:login_signup_forget_pw\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Men\u00FC1.cs",
+              "DocumentMoniker": "C:\\Users\\canpo\\OneDrive\\Masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\Men\u00FC1.cs",
+              "RelativeDocumentMoniker": "login_signup_forget_pw\\Men\u00FC1.cs",
+              "ToolTip": "C:\\Users\\canpo\\OneDrive\\Masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\Men\u00FC1.cs",
+              "RelativeToolTip": "login_signup_forget_pw\\Men\u00FC1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAewDQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T20:41:16.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Men\u00FC1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\canpo\\OneDrive\\Masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\Men\u00FC1.cs",
+              "RelativeDocumentMoniker": "login_signup_forget_pw\\Men\u00FC1.cs",
+              "ToolTip": "C:\\Users\\canpo\\OneDrive\\Masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\Men\u00FC1.cs [Design]",
+              "RelativeToolTip": "login_signup_forget_pw\\Men\u00FC1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T20:39:47.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\canpo\\OneDrive\\Masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "login_signup_forget_pw\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\canpo\\OneDrive\\Masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\AdminPanel.cs",
+              "RelativeToolTip": "login_signup_forget_pw\\AdminPanel.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAIAwwJcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T20:25:38.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\canpo\\OneDrive\\Masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "login_signup_forget_pw\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\canpo\\OneDrive\\Masa\u00FCst\u00FC\\123123\\login_signup_forget_pw\\login_signup_forget_pw\\AdminPanel.cs [Design]",
+              "RelativeToolTip": "login_signup_forget_pw\\AdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T20:10:26.397Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

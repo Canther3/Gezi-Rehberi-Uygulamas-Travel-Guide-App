@@ -1,0 +1,12 @@
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\login_signup_forget_pw.exe
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\login_signup_forget_pw.dll
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\login_signup_forget_pw.deps.json
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\login_signup_forget_pw.runtimeconfig.json
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\login_signup_forget_pw.pdb
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\Newtonsoft.Json.dll
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\System.Data.SqlClient.dll
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\bin\Release\net8.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

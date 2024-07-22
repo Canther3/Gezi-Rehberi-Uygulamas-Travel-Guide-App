@@ -1,0 +1,17 @@
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\GeziRehberi.csproj.AssemblyReference.cache
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\HavaDurumuUygulamasi.AdminPanel.resources
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.GirisForm.resources
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\HavaDurumuUygulamasi.HavaDurumu.resources
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.KayitForm.resources
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\MesafeHesaplayici.Form1.resources
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.Menü1.resources
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\GeziRehberi.Properties.Resources.resources
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\RestoranUygulamasi.Restorantlar.resources
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.SifremiUnuttumForm.resources
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.SifreSifirlama.resources
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\RestoranUygulamasi.CommentsForm.resources
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\GeziRehberi.csproj.GenerateResource.cache
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\GeziRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\GeziRehberi.AssemblyInfoInputs.cache
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\GeziRehberi.AssemblyInfo.cs
+C:\Users\canpo\OneDrive\Masaüstü\123123\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\GeziRehberi.csproj.CoreCompileInputs.cache
