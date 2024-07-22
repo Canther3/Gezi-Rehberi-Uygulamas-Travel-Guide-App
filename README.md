@@ -5,18 +5,18 @@ Bu uygulamada, Kullanıcıların daha kolay seyahat edebilmesi için tasarlandı
 
 -Uygulama içindekiler-
 
-1- Hava Durumu 
-2- Restorant Bulma/ Yorumlama
-3- Yol Tarfi / Mesafe Hesaplama
-4- Database dosyası "db" dosyasının içinde
-Admin giriş-
- User: Canthere
- Password: 123
+1- Hava Durumu  <p>
+2- Restorant Bulma/ Yorumlama <p>
+3- Yol Tarfi / Mesafe Hesaplama <p>
+4- Database dosyası "db" dosyasının içinde <p>
+Admin giriş- <p>
+ User: Canthere <p>
+ Password: 123 <p>
 
 
- uygulamanın dosyaları 
+ uygulamanın dosyaları  <p>
 "login_signup_forget_pw" dosyasının içinde <p>
-Newtonsoft eklentisini indirmeniz lazım yoksa api çalısmaz 
+Newtonsoft eklentisini indirmeniz lazım yoksa api çalısmaz  <p>
 
 <h2>
 
