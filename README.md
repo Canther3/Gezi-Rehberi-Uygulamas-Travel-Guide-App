@@ -8,7 +8,7 @@ Bu uygulamada, Kullanıcıların daha kolay seyahat edebilmesi için tasarlandı
 1- Hava Durumu 
 2- Restorant Bulma/ Yorumlama
 3- Yol Tarfi / Mesafe Hesaplama
-
+4- Database dosyası "db" dosyasının içinde
 Admin giriş-
  User: Canthere
  Password: 123
