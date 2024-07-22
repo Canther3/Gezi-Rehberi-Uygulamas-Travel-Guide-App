@@ -22,14 +22,14 @@ Newtonsoft eklentisini indşrmenşz lazım yoksa api calısmaz
 
   UYGULAMA RESİMLERİ 
 </h2>
-![11](https://github.com/user-attachments/assets/b6658698-0353-4531-916e-4e16af2de574)
-![10](https://github.com/user-attachments/assets/7533116f-1f8b-4c81-a708-fc110c5e1bfd)
-![9](https://github.com/user-attachments/assets/baedf72a-086e-4174-9a22-1e5aad10ac8f)
-![8](https://github.com/user-attachments/assets/21aceec8-9c9a-4108-879f-d5c05035581a)
-![7](https://github.com/user-attachments/assets/b81e8662-2c49-45ad-bd9a-2c7528def7b7)
-![6](https://github.com/user-attachments/assets/518178a7-1d65-4051-978e-d529464db301)
-![5](https://github.com/user-attachments/assets/8e07594a-999c-4f79-87e8-7fdf545ca62d)
-![4](https://github.com/user-attachments/assets/f36d548f-f34e-4345-b48c-4a882005b457)
-![3](https://github.com/user-attachments/assets/e88357e0-ceb3-47c8-b2fb-5fe92864113d)
-![2](https://github.com/user-attachments/assets/a69d9100-1384-4a79-a1b6-652bbdddfaf8)
-![1](https://github.com/user-attachments/assets/2524e9e7-8b56-453a-85fb-0754777feac8)
+![11](https://github.com/user-attachments/assets/b6658698-0353-4531-916e-4e16af2de574)<p></p>
+![10](https://github.com/user-attachments/assets/7533116f-1f8b-4c81-a708-fc110c5e1bfd)<p></p>
+![9](https://github.com/user-attachments/assets/baedf72a-086e-4174-9a22-1e5aad10ac8f)<p></p>
+![8](https://github.com/user-attachments/assets/21aceec8-9c9a-4108-879f-d5c05035581a)<p></p>
+![7](https://github.com/user-attachments/assets/b81e8662-2c49-45ad-bd9a-2c7528def7b7)<p></p>
+![6](https://github.com/user-attachments/assets/518178a7-1d65-4051-978e-d529464db301)<p></p>
+![5](https://github.com/user-attachments/assets/8e07594a-999c-4f79-87e8-7fdf545ca62d)<p></p>
+![4](https://github.com/user-attachments/assets/f36d548f-f34e-4345-b48c-4a882005b457)<p></p>
+![3](https://github.com/user-attachments/assets/e88357e0-ceb3-47c8-b2fb-5fe92864113d)<p></p>
+![2](https://github.com/user-attachments/assets/a69d9100-1384-4a79-a1b6-652bbdddfaf8)<p></p>
+![1](https://github.com/user-attachments/assets/2524e9e7-8b56-453a-85fb-0754777feac8)<p></p>
