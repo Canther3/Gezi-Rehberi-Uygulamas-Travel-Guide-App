@@ -13,8 +13,8 @@ namespace HavaDurumuUygulamasi
 {
     public partial class HavaDurumu : Form
     {
-        private const string apiKey = "fa19d79596c43f9e34ae6fd98c2f3c26";
-        private const string apiBaseUrl = "https://api.openweathermap.org/data/2.5/forecast";
+     private const string apiKey = "API key kısmı" ; // 'API key kısmı' kısmına gerçek API anahtarınızı yerleştirin
+        private const string apiBaseUrl = "API base url  kısmı"; 'API base url  ' // kısmına gerçek base url anahtarınızı yerleştirin
 
         public HavaDurumu()
         {
@@ -48,7 +48,7 @@ namespace HavaDurumuUygulamasi
             {
                 using (HttpClient client = new HttpClient())
                 {
-                    string url = $"{apiBaseUrl}?q={city}&units=metric&cnt=7&appid={apiKey}";
+                    string url = $"URL"; // 'URL ' kısmına gerçek url yerleştirin
                     HttpResponseMessage response = null;
 
                     try
@@ -156,7 +156,7 @@ namespace HavaDurumuUygulamasi
                 SizeMode = PictureBoxSizeMode.Zoom
             };
 
-            string iconUrl = $"http://openweathermap.org/img/wn/{iconCode}@2x.png";
+            string iconUrl = $"IconUrl";// aldıgınız api ın icon linki 
             var image = InvertImageColors(iconUrl);
             pictureBox.Image = image;
 
