@@ -12,7 +12,7 @@ namespace MesafeHesaplayici
 {
     public partial class Form1 : Form
     {
-        private const string apiKey = "AIzaSyAEFHnbaxQWPh7r6msggIio3G96oZflpcU";
+        private const string apiKey = "API key kısmı" ; // 'API key kısmı' kısmına gerçek API anahtarınızı yerleştirin
         private string[] imagePaths = { "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\ist2.png",
     "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\ist1.png",
     "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\images.jpeg",
@@ -66,7 +66,7 @@ namespace MesafeHesaplayici
                     else
                     {
                         double distance = task.Result;
-                        // UI thread'ine dönerek sonucu göster
+                        // ui thread ine dönerek sonucu göster
                         this.Invoke(new Action(() =>
                         {
                             labelResult.Text = $"{startCity} ile {endCity} arası mesafe {distance} km.";
@@ -80,7 +80,7 @@ namespace MesafeHesaplayici
             var tcs = new TaskCompletionSource<double>();
             var client = new HttpClient();
 
-            string url = $"https://maps.googleapis.com/maps/api/distancematrix/json?origins={startCity}&destinations={endCity}&key={apiKey}&units=metric";
+             string url = $"URL"; // 'URL ' kısmına gerçek url yerleştirin
 
             client.GetAsync(url)
                 .ContinueWith(getTask =>
