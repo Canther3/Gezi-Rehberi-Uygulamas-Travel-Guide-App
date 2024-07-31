@@ -13,17 +13,7 @@ namespace MesafeHesaplayici
     public partial class Form1 : Form
     {
         private const string apiKey = "API key kısmı" ; // 'API key kısmı' kısmına gerçek API anahtarınızı yerleştirin
-        private string[] imagePaths = { "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\ist2.png",
-    "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\ist1.png",
-    "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\images.jpeg",
-    "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\images (1).jpeg",
-    "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\efes1.jpg.png",
-    "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\efes3.jpg.png",
-    "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\efes3.jpg",
-    "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\efes3.jpg.png",
-    "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\canakkale-truva-heykeli.jpg",
-    "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\canak2.png",
-    "C:\\Users\\canpo\\OneDrive\\Masaüstü\\Yeni klasör\\login_signup_forget_pw\\login_signup_forget_pw\\Resources\\40178824_57181_canakkale-de-bugun-hava-d.jpg" }; 
+     /*   private string[] imagePaths = { "bu kısma resimlerin dosya konumlarını yazmanız lazım "}; */
         private int currentImageIndex = 0;
 
         public Form1()
