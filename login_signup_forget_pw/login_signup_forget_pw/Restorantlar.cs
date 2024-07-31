@@ -11,7 +11,7 @@ namespace RestoranUygulamasi
 {
     public partial class Restorantlar : Form
     {
-        private const string apiKey = "AIzaSyAEFHnbaxQWPh7r6msggIio3G96oZflpcU"; 
+        private const string apiKey = "API key kısmı" ; // 'API key kısmı' kısmına gerçek API anahtarınızı yerleştirin
 
         public Restorantlar()
         {
@@ -35,7 +35,7 @@ namespace RestoranUygulamasi
         {
             using (HttpClient client = new HttpClient())
             {
-                string url = $"https://maps.googleapis.com/maps/api/place/textsearch/json?query=restaurants+in+{city}&key={apiKey}";
+                string url = $"URL"; // 'URL ' kısmına gerçek url yerleştirin
                 var response = await client.GetAsync(url);
                 response.EnsureSuccessStatusCode();
 
